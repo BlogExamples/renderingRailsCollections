@@ -1,0 +1,18 @@
+$light-grey: #eaeaea;
+
+// *** Styling for the users instance variables *** //
+.users {
+  list-style: none;
+  padding: 0;
+  li {
+    padding: 10px 0;
+    border-top: 1px solid $light-grey;
+  }
+  .name {
+
+
+  }
+  .bio {
+    display:block;
+  }
+}
